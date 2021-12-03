@@ -1,0 +1,25 @@
+.Cart__item {    
+   font-size: 16px;   
+   display: flex;
+   justify-content: space-between;   
+   padding: 20px;
+}
+
+.Cart__left-container,
+.Cart__right-container {
+   display: flex;     
+}
+
+
+.Cart__item-index {
+   margin-right: 20px;
+}
+
+.Cart__item-price {
+   margin-right: 55px;
+}
+
+.Cart__item-price,
+.Cart__item-quantity {
+   font-size: 18px;   
+}

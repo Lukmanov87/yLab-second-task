@@ -1,0 +1,17 @@
+/* Контрол с общими действиями */
+.Controls{
+   display: flex;
+   justify-content: flex-end;
+   margin: 0 10px;
+   align-items: center;
+}
+
+.Controls__info {
+   margin-right: 13px;
+}
+
+.Controls__btn {
+   width: 80px; 
+   height: 21px;  
+   font-size: 13px;
+}

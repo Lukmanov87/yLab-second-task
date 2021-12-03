@@ -1,0 +1,28 @@
+/* Пункт списка */
+.Item{
+   display: flex;
+   justify-content: flex-start;  
+   align-items: center; 
+   
+}
+
+.Item__title{
+   width: 100%;
+   padding: 20px 10px;
+}
+.Item__btn{
+   padding: 20px 10px 20px;
+   display: flex; 
+   font-size: 13px;
+   
+}
+.Item__number{   
+   padding: 20px 10px 20px 20px;
+}
+
+.Item__price {   
+   display: flex;
+   padding: 20px 30px;
+   font-size: 18px;
+   color: #404040;    
+}
